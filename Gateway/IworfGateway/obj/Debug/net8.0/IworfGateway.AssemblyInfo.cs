@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IworfGateway")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+159330efd0f56d67e4d8bf2da5b10f020f39c93f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1059cb5c7c25728b302461411f280e8fa1edd769")]
 [assembly: System.Reflection.AssemblyProductAttribute("IworfGateway")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IworfGateway")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
